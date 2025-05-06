@@ -9,18 +9,26 @@
 
 <https://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-62.pdf>
 
+===== VERILOG ====
 
 <https://www.asic-world.com/verilog/gate1.html>
 
 <https://vlsiverify.com/verilog/gate-level-modeling/>
 
 <https://youtu.be/8boamDdvD8s?t=95>
+
 <https://youtu.be/8boamDdvD8s?t=131>
+
 <https://youtu.be/8boamDdvD8s?t=265>
+
 <https://youtu.be/8boamDdvD8s?t=380>
+
 <https://youtu.be/8boamDdvD8s?t=1164>
+
 <https://youtu.be/8boamDdvD8s?t=1619>
+
 <https://youtu.be/8boamDdvD8s?t=1810>
+
 <https://youtu.be/8boamDdvD8s?t=4900>
 
 <https://github.com/AngeloJacobo/RISC-V>
